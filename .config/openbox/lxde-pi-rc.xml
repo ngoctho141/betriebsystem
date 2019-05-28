@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<openbox_config><theme><font place="ActiveWindow"><name>PibotoLt</name><size>8</size><weight>Normal</weight><slant>Normal</slant></font><font place="InactiveWindow"><name>PibotoLt</name><size>8</size><weight>Normal</weight><slant>Normal</slant></font><invHandleWidth>10</invHandleWidth><titleColor>#4d98f5</titleColor><textColor>#ffffff</textColor></theme></openbox_config>

@@ -1,0 +1,6 @@
+[$Version]
+update_info=kdeui.upd:kde4/migrate_from_kde3_icon_theme,kded.upd:kde3.0
+
+[DirSelect Dialog]
+DirSelectDialog Size=783,480
+History Items[$e]=file://$HOME/Praktikum/3_2_SEM_VC_IFC,file://$HOME/Praktikum/3_1_SM_VC_IFC

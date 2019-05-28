@@ -1,0 +1,8 @@
+[Added Associations]
+application/x-python-bytecode=leafpad.desktop;idle3.desktop;
+image/png=vlc.desktop;display-im6.q16.desktop;org.gnome.Cheese.desktop;
+application/x-executable=geany.desktop;
+application/x-shellscript=lxterminal.desktop;
+
+[Default Applications]
+application/x-python-bytecode=leafpad.desktop

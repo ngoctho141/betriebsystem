@@ -1,0 +1,677 @@
+1.2
+lxde-applications.menu
+18
+D/home/pi/.local/share/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/raspi-ui-overrides/desktop-directories
+D/usr/share/desktop-directories
+D/usr/share/gdm/desktop-directories
+D/var/lib/menu-xdg/desktop-directories
+D/home/pi/.local/share/applications
+D/usr/local/share/applications
+D/usr/share/raspi-ui-overrides/applications
+D/usr/share/applications
+D/usr/share/applications/kde4
+D/usr/share/gdm/applications
+D/var/lib/menu-xdg/applications
+D/etc/xdg/menus/applications-merged
+D/home/pi/.config/menus/applications-merged
+F/home/pi/.config/menus/lxde-applications.menu
+F/etc/xdg/menus/lxde-applications.menu
+F/etc/xdg/menus/debian-menu.menu
+Unity;MATE;
++Applications
+Anwendungen
+Anwendungen
+applications-other
+lxde-menu-applications.directory
+3
+0
++Office
+Büro
+Büroanwendungen
+applications-office
+lxde-office.directory
+3
+0
+-libreoffice-draw.desktop
+LibreOffice Draw
+Zeichnungen erstellen und bearbeiten, Flussdiagramme entwerfen und Logos kreieren - Draw macht's möglich.
+libreoffice-draw
+
+8
+Zeichenprogramm
+libreoffice --draw %U
+2
+0
+libreoffice
+
+Office;FlowChart;2DGraphics;VectorGraphics
+Vector,Schema,Diagram,Layout,OpenDocument Graphics,Microsoft Publisher,Corel Draw,cdr,odg,svg
+-libreoffice-math.desktop
+LibreOffice Math
+Wissenschaftliche Formeln setzen und bearbeiten - Math macht's möglich.
+libreoffice-math
+
+8
+Formeleditor
+libreoffice --math %U
+2
+0
+libreoffice
+
+Office;Spreadsheet;Science;Math
+Equation,OpenDocument Formula,Formula,odf,MathML
+
++Development
+Entwicklung
+Werkzeuge zur Software-Entwicklung
+applications-development
+lxde-development.directory
+3
+0
+-bluej.desktop
+BlueJ Java IDE
+A simple powerful Java IDE
+bluej
+
+8
+
+bluej
+0
+0
+bluej
+
+Application;Development
+
+-geany.desktop
+Geany
+Eine kleine und schnelle Entwicklungsumgebung für GTK2
+geany
+
+8
+Integrierte Entwicklungsumgebung
+geany %F
+2
+0
+geany
+
+GTK;Development;IDE
+
+-greenfoot.desktop
+Greenfoot Java IDE
+A simple Java IDE and animation framework
+greenfoot
+
+8
+
+greenfoot
+0
+0
+greenfoot
+
+Application;Development
+
+-kde4-kdiff3.desktop
+KDiff3
+Programm zum Vergleichen und Zusammenführen von Dateien und Ordnern
+kdiff3
+kdiff3.desktop
+10
+Grafische Oberfläche zu Diff/Patch
+kdiff3 %i -caption "%c"
+0
+0
+
+
+Qt;KDE;Development
+
+-idle3.desktop
+Python 3 (IDLE)
+Integrated development environment for Python 3
+python
+
+8
+
+/usr/bin/idle3
+2
+0
+/usr/bin/idle3
+
+Application;Development
+
+-scratch.desktop
+Scratch
+Programming system and content development tool
+scratch
+
+8
+
+scratch
+0
+0
+scratch
+
+Application;Development
+
+
++Graphics
+Grafik
+Anwendungen zur Grafikbearbeitung
+applications-graphics
+lxde-graphics.directory
+3
+0
+-gpicview.desktop
+Bildbetrachter
+Bilder einfach betrachten
+gpicview
+
+8
+Bildbetrachter
+gpicview %f
+2
+0
+gpicview
+
+Graphics;Core;GTK;Viewer;RasterGraphics;2DGraphics;Photography
+
+-display-im6.q16.desktop
+ImageMagick (color depth=q16)
+Display and edit image files
+display-im6.q16
+
+9
+
+/usr/bin/display-im6.q16 -nostdin %F
+0
+0
+
+
+Graphics
+Image,Slideshow,View,Transform,Enhance,F/X,Special Effects
+
++Internet
+Internet
+Programme, um Internet-Dienste wie E-Mail oder das WWW zu nutzen
+applications-internet
+lxde-network.directory
+3
+0
+-chromium-browser.desktop
+Chromium-Webbrowser
+Internetzugriff
+chromium-browser
+
+9
+Web-Browser
+chromium-browser %U
+2
+0
+
+
+Network;WebBrowser
+
+-claws-mail.desktop
+Claws Mail
+Lightweight and Fast GTK+ based Mail Client
+mail
+
+8
+E-mail client
+claws-mail %u
+2
+0
+claws-mail
+
+Network;Email
+lightweight,fast,gui,extensible,plugin,pop,pop3,imap,imap4,nntp,news
+
++Other
+Sonstige
+Anwendungen, die in keine andere Kategorie eingeordnet werden können
+applications-other
+lxde-other.directory
+3
+0
+-debian-reference-common.desktop
+Debian-Referenz
+Debian Reference Guide
+debian-reference.png
+
+8
+
+debian-reference
+0
+0
+debian-reference
+
+Help
+
+-raspi_getstart.desktop
+Get Started
+
+rpi
+
+8
+
+x-www-browser https://rpf.io/raspbian-getstarted
+2
+0
+/usr/bin/x-www-browser
+
+Help
+
+-help.desktop
+Help
+Link to help pages
+rpi
+
+8
+
+x-www-browser https://rpf.io/raspbian-help
+0
+0
+/usr/bin/x-www-browser
+
+Help
+
+-raspi_resources.desktop
+Projects
+
+rpi
+
+8
+
+x-www-browser https://rpf.io/raspbian-projects
+2
+0
+/usr/bin/x-www-browser
+
+Help
+
+-magpi.desktop
+The MagPi
+Link to downloads of The MagPi magazine
+magpi
+
+8
+
+x-www-browser http://www.raspberrypi.org/magpi
+0
+0
+/usr/bin/x-www-browser
+
+Help
+
+
++Games
+Spiele
+Spiel und Spaß
+applications-games
+lxde-game.directory
+3
+0
+-minecraft-pi.desktop
+Minecraft Pi
+Fun with Blocks
+/usr/share/pixmaps/minecraft-pi.png
+
+8
+
+minecraft-pi
+2
+0
+minecraft-pi
+
+Application;Game
+
+
++Multimedia
+Unterhaltungsmedien
+Multimedia-Menü
+applications-multimedia
+lxde-audio-video.directory
+3
+0
+-org.gnome.Cheese.desktop
+Cheese
+Ein Programm, um Bilder und Videos mit einer Webcam aufzunehmen und lustige graphische Effekte hinzuzufügen
+org.gnome.Cheese
+
+9
+Webcam-Automat
+cheese
+2
+0
+
+
+GNOME;AudioVideo;Video;Recorder
+Foto,Video,Webcam,Kamera
+-vlc.desktop
+VLC Media Player
+Wiedergabe, Aufnahme und Verbreitung Ihrer Multimedia-Streams
+vlc
+
+8
+Medienwiedergabe
+/usr/bin/vlc --started-from-file %U
+0
+0
+/usr/bin/vlc
+
+AudioVideo;Player;Recorder
+Player,Capture,DVD,Audio,Video,Server,Broadcast
+
++Accessories
+Zubehör
+Desktop-Zubehör
+applications-accessories
+lxde-utility.directory
+3
+0
+-galculator.desktop
+Calculator
+Ausführen von einfachen und wissenschaftlichen Berechnungen
+galculator
+
+8
+
+galculator
+2
+0
+galculator
+
+Utility
+
+-pcmanfm.desktop
+Dateimanager
+Das Dateisystem durchsuchen und Dateien verwalten
+system-file-manager
+
+8
+Dateimanager
+pcmanfm %U
+2
+0
+pcmanfm
+
+FileManager;Utility;Core;GTK
+
+-yelp.desktop
+Hilfe
+Hilfe zu GNOME erhalten
+help-browser
+
+9
+
+yelp %u
+2
+34
+
+
+GNOME;GTK;Core;Documentation;Utility
+Dokumentation,Information,Handbuch,Hilfe
+-lxterminal.desktop
+LXTerminal
+Befehlszeile verwenden
+lxterminal
+
+8
+Terminal
+lxterminal
+2
+0
+lxterminal
+
+GTK;Utility;TerminalEmulator
+
+-qpdfview.desktop
+PDF Viewer
+Viewer for PDF files
+xpdf
+
+9
+PDF Viewer
+qpdfview --unique %F
+0
+0
+qpdfview
+
+Viewer;Utility
+viewer,document,presentation,pdf,ps,djvu
+-xpdf.desktop
+PDF Viewer
+Viewer for PDF files
+xpdf
+
+8
+PDF viewer
+xpdf
+0
+0
+xpdf
+
+Viewer;Utility
+
+-piclone.desktop
+SD Card Copier
+Erstellen Sie eine Kopie der Raspbian SD-Karte
+media-removable
+
+9
+SD Card Copier
+env SUDO_ASKPASS=/usr/lib/piclone/pwdpic.sh sudo -A dbus-launch piclone
+2
+-11
+
+
+Utility
+
+-lxtask.desktop
+Taskmanager
+Laufende Prozesse verwalten
+utilities-system-monitor
+
+8
+Prozessverwaltung
+lxtask
+2
+0
+lxtask
+
+GTK;Utility;Monitor
+
+-leafpad.desktop
+Text Editor
+Einfacher Texteditor
+accessories-text-editor
+
+8
+
+leafpad %f
+0
+0
+leafpad
+
+GTK;Utility;TextEditor
+
+-vim.desktop
+Vim
+Textdateien bearbeiten
+gvim
+
+9
+Texteditor
+vim %F
+1
+0
+vim
+
+Utility;TextEditor
+Text,editor
+-xarchiver.desktop
+Xarchiver
+Ein auf GTK+2 basierender Archivmanager
+xarchiver.png
+
+8
+Archivmanager
+xarchiver
+2
+0
+xarchiver
+
+GTK;Archiving;Utility
+
+
+-
++DesktopSettings
+Einstellungen
+Persönliche Einstellungen
+preferences-desktop
+lxde-settings.directory
+3
+0
+-pi-packages.desktop
+Add / Remove Software
+Auf dem System installierte Software aktualisieren oder neue Software hinzufügen
+system-software-install
+
+9
+
+pi-packages
+2
+-5
+
+
+GNOME;GTK;System;Settings;PackageManager
+Updates,Aktualisierungen,Upgrades,Quellen,Softwarequellen,Einstellungen,Installieren,Store
+-pipanel.desktop
+Appearance Settings
+Configure the appearance of the desktop and windows
+preferences-desktop-theme
+
+9
+Appearance Settings
+env SUDO_ASKPASS=/usr/lib/pipanel/pwdpip.sh pipanel
+2
+-11
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-pimixer.desktop
+Audio Device Settings
+Settings for internal and external audio devices
+multimedia-volume-control
+
+9
+
+pimixer
+2
+0
+
+
+Settings
+
+-lxrandr.desktop
+Bildschirmeinstellungen
+Die Bildschirmauflösung und externe Monitore konfigurieren
+display
+
+6
+
+lxrandr
+0
+0
+
+
+GTK;Settings;HardwareSettings
+
+-pcmanfm-desktop-pref.desktop
+Desktop Einstellungen
+Hintergrundbilder und Verhalten der Desktopverwaltung ändern
+user-desktop
+
+6
+
+pcmanfm --desktop-pref
+2
+-15
+
+
+Settings;GTK;DesktopSettings;X-LXDE-Settings
+
+-lxsession-edit.desktop
+Desktop Session Settings
+Manage applications loaded in desktop session
+xfwm4
+
+6
+
+lxsession-edit
+0
+-15
+lxsession-edit
+
+Settings;DesktopSettings;X-LXDE-Settings
+
+-alacarte.desktop
+Main Menu Editor
+Anwendungen dem Hauptmenü hinzufügen oder löschen
+alacarte
+
+9
+
+alacarte
+2
+-5
+
+
+GNOME;Settings;DesktopSettings
+
+-rc_gui.desktop
+Raspberry-Pi-Konfiguration
+Raspberry-Pi-System konfigurieren
+rpi
+
+9
+Raspberry-Pi-Konfiguration
+env SUDO_ASKPASS=/usr/lib/rc-gui/pwdrcg.sh sudo -A rc_gui
+2
+-11
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-rp-prefapps.desktop
+Recommended Software
+Install additional programs recommended for use on the Pi
+rpi
+
+9
+Recommended Software
+env SUDO_ASKPASS=/usr/lib/rp-prefapps/pwdrpp.sh sudo -A rp-prefapps
+2
+-11
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-lxinput.desktop
+Tastatur und Maus
+Maus, Tastatur und andere Eingabegeräte konfigurieren
+preferences-desktop-peripherals
+
+9
+
+lxinput
+2
+-79
+lxinput
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+
+
+

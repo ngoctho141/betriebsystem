@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=LXRandR automatisch starten
+Comment=Xrandr mit den Einstellungen aus LXRandR starten
+Exec=sh -c 'xrandr --output default --mode 1280x720 --rate 0.00'
+OnlyShowIn=LXDE
+
+[Desktop     Entry]
+Type=Application
+Name=TCP Server und MPJG Streamer starten
+Comment=Fahrzeugfernsteuerung
+Exec=sh -c '/home/pi/Desktop/start_py.sh'
+OnlyShowIn=LXDE 

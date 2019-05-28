@@ -1,0 +1,5 @@
+#!/bin/sh
+# echo "This build requires that WiringPi is installed on the RPi"
+# g++ motor_enable.cpp -o motor_enable -lwiringPi
+# g++ vehicle_control.cpp I2CDevice.cpp pwmDriver.cpp Servo.cpp -o vc 
+g++ vehicle_control.cpp DC_Motor.cpp I2CDevice.cpp pwmDriver.cpp Servo.cpp -o vc -lwiringPi

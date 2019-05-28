@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1525454038 source:/home/pi/toHost/Beispielprogramme/prog_5_02.c
+	<netdb.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

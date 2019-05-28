@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/pi/motor_enable_muster.cpp" added="2019-04-30T12:02:14Z" modified="2019-04-30T12:02:14Z" visited="2019-04-30T12:02:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-04-30T12:02:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Downloads/9781119211051.pdf" added="2019-04-30T12:19:37Z" modified="2019-04-30T12:19:37Z" visited="2019-04-30T12:19:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2019-04-30T12:19:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/vehicle_control_muster.cpp" added="2019-04-30T13:01:04Z" modified="2019-05-28T11:55:45Z" visited="2019-04-30T13:01:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-28T11:55:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/exploringRPi/chp09/pwmDriver/pwmTestApp.cpp" added="2019-04-30T13:07:59Z" modified="2019-04-30T13:07:59Z" visited="2019-04-30T13:08:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-04-30T13:07:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/exploringRPi/chp09/pwmDriver/pwmDriver.h" added="2019-04-30T13:09:53Z" modified="2019-04-30T13:09:53Z" visited="2019-04-30T13:09:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-04-30T13:09:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Downloads/Material_zu_Aufgabenblatt3" added="2019-05-14T12:11:47Z" modified="2019-05-14T12:11:47Z" visited="2019-05-14T12:11:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xarchiver" exec="&apos;xarchiver %u&apos;" modified="2019-05-14T12:11:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Downloads/Material_zu_Aufgabenblatt3/Material_zu_Aufgabenblatt3/2_4_DC_Motors/vehicle_control.cpp" added="2019-05-14T12:24:13Z" modified="2019-05-28T11:54:33Z" visited="2019-05-14T12:24:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-28T11:54:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Praktikum/2_4_DC_Motors/vehicle_control.cpp" added="2019-05-14T13:08:20Z" modified="2019-05-28T11:56:40Z" visited="2019-05-14T13:08:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-28T11:56:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Praktikum/2_4_DC_Motors/DC_Motor.cpp" added="2019-05-14T14:43:57Z" modified="2019-05-14T14:43:57Z" visited="2019-05-14T14:43:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-14T14:43:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Praktikum/2_4_DC_Motors/Servo.cpp" added="2019-05-14T14:44:34Z" modified="2019-05-14T14:44:34Z" visited="2019-05-14T14:44:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-14T14:44:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Downloads/BS_Aufgabenblatt_3.pdf" added="2019-05-28T11:51:11Z" modified="2019-05-28T11:51:11Z" visited="2019-05-28T11:51:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2019-05-28T11:51:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/DC_motor_muster.cpp" added="2019-05-28T11:55:21Z" modified="2019-05-28T11:55:21Z" visited="2019-05-28T11:55:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-28T11:55:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Praktikum/2_4_DC_Motors/erzverb.h" added="2019-05-28T12:01:12Z" modified="2019-05-28T12:01:12Z" visited="2019-05-28T12:01:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-28T12:01:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Downloads/Material_zu_Aufgabenblatt3/Material_zu_Aufgabenblatt3/Vogt_Beispielprogramme/prog_3_03_erzeuger.c" added="2019-05-28T12:02:16Z" modified="2019-05-28T12:02:16Z" visited="2019-05-28T12:02:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-28T12:02:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Downloads/Material_zu_Aufgabenblatt3/Material_zu_Aufgabenblatt3/Vogt_Beispielprogramme/prog_3_03.h" added="2019-05-28T12:17:29Z" modified="2019-05-28T12:17:29Z" visited="2019-05-28T12:17:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-28T12:17:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Praktikum/2_4_DC_Motors/prog_3_03.h" added="2019-05-28T12:18:35Z" modified="2019-05-28T12:18:35Z" visited="2019-05-28T12:18:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-28T12:18:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Praktikum/2_4_DC_Motors/prog_3_03_erzeuger.c" added="2019-05-28T12:18:43Z" modified="2019-05-28T12:18:43Z" visited="2019-05-28T12:18:43.305695Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-05-28T12:18:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
