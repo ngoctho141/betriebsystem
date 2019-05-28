@@ -1,13 +1,3 @@
-ioctl: VIDIOC_ENUM_FRAMESIZES
-Size: Discrete 640x480
-Size: Discrete 352x288
-Size: Discrete 320x240
-Size: Discrete 176x144
-Size: Discrete 160x120
-history
-v4l2-ctl --help-all
-v4l2-ctl --all
-history
 v4l2-ctl -D
 history
 v4l2-ctl -l
@@ -1998,3 +1988,13 @@ chmod * a+x
 chmod * 0777
 sudo -i
 sudo apt-get install git
+cd /home/pi/Praktikum/2_4_DC_Motors/erzverb.h
+git init
+git add .
+git commit -m "init"
+git config --global user.email "thofreising141@gmail.com"
+git config --global user.name "thofreising141"
+git commit -m "init"
+git remote add origin https://github.com/ngoctho141/betriebsystem.git
+git push origin master
+pwd

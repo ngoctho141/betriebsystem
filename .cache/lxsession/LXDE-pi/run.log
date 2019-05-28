@@ -101,16 +101,16 @@ xprop:  no such property "_NET_DESKTOP_NAMES"
 ** Message: app.vala:76: Launching lxpanel 
 ** Message: app.vala:76: Launching pcmanfm 
 
-** (lxsession:493): WARNING **: app.vala:86: Kindprozess »xscreensaver« konnte nicht ausgeführt werden (Datei oder Verzeichnis nicht gefunden)
+** (lxsession:472): WARNING **: app.vala:86: Kindprozess »xscreensaver« konnte nicht ausgeführt werden (Datei oder Verzeichnis nicht gefunden)
 
-** (lxsession:493): WARNING **: app.vala:87: Error when launching xscreensaver
+** (lxsession:472): WARNING **: app.vala:87: Error when launching xscreensaver
 ** Message: app.vala:76: Launching point-rpi 
 ** Message: options.vala:107: Create build-in Clipboard
 ** Message: main.vala:442: Check keymap_mode (null)
 ** Message: app.vala:76: Launching /usr/bin/ssh-agent 
-SSH_AUTH_SOCK=/tmp/ssh-YZWfdAqs88WR/agent.618; export SSH_AUTH_SOCK;
-SSH_AGENT_PID=620; export SSH_AGENT_PID;
-echo Agent pid 620;
+SSH_AUTH_SOCK=/tmp/ssh-6GEyTW4rcOig/agent.596; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=598; export SSH_AGENT_PID;
+echo Agent pid 598;
 xrandr: Failed to get size of gamma for output default
 ** Message: app.vala:130: point-rpi exit with this type of exit: 0
 ** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
@@ -118,7 +118,7 @@ Openbox-Message: Keine gültige Menü-Datei "/usr/share/lxde/openbox/menu.xml" v
 ** Message: Connecting ...
 ** Message: Status changed to down
 
-** (lxpanel:612): CRITICAL **: dhcpcd_open: Unpassender IOCTL (I/O-Control) für das Gerät
+** (lxpanel:589): CRITICAL **: dhcpcd_open: Unpassender IOCTL (I/O-Control) für das Gerät
 ** Message: bt: Name org.bluez owned on DBus
 ** Message: bt: New agent manager found
 ** Message: bt: New adapter found
@@ -130,11 +130,8 @@ Openbox-Message: Keine gültige Menü-Datei "/usr/share/lxde/openbox/menu.xml" v
 ** Message: eth0: Link is down
 ** Message: wlan0: WPA status connected
 ** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Disassociated from Raspberry Pi Lab
-** Message: Status changed to disconnected
-** Message: wlan0: Associated with Raspberry Pi Lab
-** Message: Status changed to connecting
+geany 
+lxterminal
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
@@ -144,99 +141,30 @@ Openbox-Message: Keine gültige Menü-Datei "/usr/share/lxde/openbox/menu.xml" v
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+** (lxpanel:589): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 pcmanfm 
 ** Message: wlan0: Received scan results
-qpdfview --unique '/home/pi/Downloads/9781119211051.pdf' 
-libEGL warning: DRI2: failed to authenticate
-qt5ct: using qt5ct plugin
-qt5ct: D-Bus global menu: no
-libpng warning: iCCP: known incorrect sRGB profile
-libpng warning: iCCP: known incorrect sRGB profile
-libpng warning: iCCP: known incorrect sRGB profile
-/usr/bin/x-www-browser 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[1244:1244:0528/135039.265227:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-[1244:1340:0528/135040.195578:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
-[1244:1287:0528/135040.211391:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[1344:1344:0528/135042.891603:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
-Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
-** Message: wlan0: Received scan results
-qpdfview --unique '/home/pi/Downloads/BS_Aufgabenblatt_3.pdf' 
-libEGL warning: DRI2: failed to authenticate
-qt5ct: using qt5ct plugin
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-geany '/home/pi/Downloads/Material_zu_Aufgabenblatt3/Material_zu_Aufgabenblatt3/2_4_DC_Motors/vehicle_control.cpp' 
-pcmanfm 
-** Message: wlan0: Received scan results
-geany '/home/pi/DC_motor_muster.cpp' 
-geany '/home/pi/DC_motor_muster.cpp' 
-geany '/home/pi/vehicle_control_muster.cpp' 
-** Message: wlan0: Received scan results
-geany '/home/pi/Praktikum/2_4_DC_Motors/vehicle_control.cpp' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-geany '/home/pi/Praktikum/2_4_DC_Motors/erzverb.h' 
-** Message: wlan0: Received scan results
-geany '/home/pi/Downloads/Material_zu_Aufgabenblatt3/Material_zu_Aufgabenblatt3/Vogt_Beispielprogramme/prog_3_03_erzeuger.c' 
-geany '/home/pi/Praktikum/2_4_DC_Motors/erzverb.h' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-leafpad '/root/bla.txt' 
-** Message: wlan0: Received scan results
-leafpad '/root/bla.txt' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-leafpad '/root/bla.txt' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-geany '/home/pi/Downloads/Material_zu_Aufgabenblatt3/Material_zu_Aufgabenblatt3/Vogt_Beispielprogramme/prog_3_03.h' 
-pcmanfm 
-** Message: wlan0: Received scan results
-geany '/home/pi/Praktikum/2_4_DC_Motors/vehicle_control.cpp' 
-geany '/home/pi/Praktikum/2_4_DC_Motors/prog_3_03.h' 
-geany '/home/pi/Praktikum/2_4_DC_Motors/prog_3_03_erzeuger.c' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
 lxterminal
-/usr/bin/x-www-browser 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[2043:2043:0528/143200.660683:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-Neues Fenster in aktueller Browsersitzung erstellt.
-** Message: wlan0: Received scan results
-lxterminal
-** Message: wlan0: Received scan results
-lxterminal
-/usr/bin/x-www-browser 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[2210:2210:0528/143355.477305:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-Neues Fenster in aktueller Browsersitzung erstellt.

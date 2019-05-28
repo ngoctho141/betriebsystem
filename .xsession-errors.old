@@ -1,4 +1,4 @@
-Xsession: X session started for pi at Di 30. Apr 16:47:25 CEST 2019
+Xsession: X session started for pi at Di 28. Mai 16:20:58 CEST 2019
 dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 dbus-update-activation-environment: setting DISPLAY=:0
 dbus-update-activation-environment: setting XAUTHORITY=/home/pi/.Xauthority
